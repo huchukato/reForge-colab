@@ -1,6 +1,6 @@
 # huchukato's SD reForge Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huchukato/reForge-colab/blob/main/huchukato-SD-reForge-Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huchukato/reForge-colab/blob/main/notebook/huchukato-SD-reForge-Colab.ipynb)
 
 A simple notebook tu run SD reForge on Colab in One Click
 
@@ -15,7 +15,7 @@ A simple notebook tu run SD reForge on Colab in One Click
 
 ## 🚀 Usage
 
-1. 📂 Open the [notebook](https://colab.research.google.com/github/huchukato/reForge-colab/blob/main/huchukato-SD-reForge-Colab.ipynb) in Google Colab
+1. 📂 Open the [notebook](https://colab.research.google.com/github/huchukato/reForge-colab/blob/main/notebook/huchukato-SD-reForge-Colab.ipynb) in Google Colab
 2. ⚙️ Configure the settings in the installation cell
 3. ▶️ Run the cells to set up the environment and launch the Web UI
 
